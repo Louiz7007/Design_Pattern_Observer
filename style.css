@@ -1,0 +1,26 @@
+body {
+    background: lightblue;
+}
+
+h1, h2, p {
+    font-family: "Arial";
+}
+
+button {
+    font-size: 2vh;
+}
+
+input, label {
+    font-size: 2vh;
+    font-family: "Arial";
+}
+
+.observer {
+    background-color: rgb(71, 252, 123);
+    width: 50vw;
+}
+
+.subject {
+    background-color: rgb(227, 99, 99);
+    width: 50vw;
+}
